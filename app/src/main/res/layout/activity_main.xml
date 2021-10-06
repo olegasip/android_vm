@@ -41,7 +41,7 @@
         android:layout_marginRight="8dp"
         android:layout_weight="9"
         android:scaleType="centerCrop"
-        android:src="@drawable/paper_quilling"
+        android:src="@drawable/android"
         android:contentDescription="@string/todo" />
 
     <Button
